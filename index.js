@@ -43,15 +43,7 @@ $(document).ready(function() {
     });
 });
 
-
-
-
-
-
-    
-
-
-// SUBMIT BUTTON//////////////
+//SUBMIT BUTTON
 
 document.addEventListener('DOMContentLoaded', () => {
   const submitButton = document.querySelector('.form-container .btn');
@@ -84,9 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   showSlides();
 });
-
-
-// SCROLL THE PAGE ***********************************
+// SCROLL THE PAGE 
 document.addEventListener('DOMContentLoaded', () => {
   const scrollToTopButton = document.getElementById('scrollToTop');
 
